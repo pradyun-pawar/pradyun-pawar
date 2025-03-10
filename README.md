@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pradyun Pawar</h1>
-<h3 align="center">Web Developer and AI/ML Enthusiast from India</h3>
+<h3 align="center">Financial Analyst from India</h3>
 
-- 🔭 I’m currently working on **AI Projects**
+- 🔭 I’m currently working on **Finance Projects**
 
-- 🌱 I’m currently learning **DSA**
-
-- 💬 Ask me about **REACT, AI/ML**
+- 🌱 I’m currently learning **Financial Modelling**
 
 - 📫 How to reach me **pawarpradyun@gmail.com**
 
